@@ -6,4 +6,4 @@ To run server
 - run "npm install"
 - run "npm start"
 
-server should be avaliable on http://localhost:8080/
+server should be available on http://localhost:8080/
